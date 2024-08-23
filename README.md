@@ -1,2 +1,2 @@
 # openapi-types
-conteins typescript types of openapi document
+typescript types of openapi document
